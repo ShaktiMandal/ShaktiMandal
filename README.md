@@ -22,11 +22,11 @@
     </a>
   </div>
   <div id="header" align="center" class="round-border">
-<!--     <img
-      src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif"
+    <img
+      src="[https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png)"
       width="300"
-    /> -->
-  ![github-logo](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png)
+    />
+<!--   ![github-logo](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png) -->
   </div>
 
   <div align="center" id="badges">
