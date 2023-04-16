@@ -27,7 +27,8 @@
       width="300"
     />
   </div>
+
   <div align="center" id="badges">
-    <img src="https://komarev.com/ghpvc/?ShaktiMandal=ShaktiMandal&style=flat-square&color=blue"  alt=""/>
+ ![github-logo](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png)
   </div>
 
