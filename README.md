@@ -22,7 +22,8 @@
     </a>
   </div>
   <div id="header" align="center" class="round-border">
-    ![github-logo-readme](https://user-images.githubusercontent.com/34964652/232327788-3cbe6816-0e74-4add-b876-c5d04a456b4b.png)
+   ![github-logo-readme](https://user-images.githubusercontent.com/34964652/232327858-ec8d5826-4fe5-43ce-be5e-37ae69681ab6.png)
+
   </div>
 
   <div align="center" id="badges">
