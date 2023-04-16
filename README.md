@@ -22,10 +22,12 @@
     </a>
   </div>
   <div id="header" align="center" class="round-border">
-    <img
+<!--     <img
       src="[https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png)"
       width="300"
-    />
+    /> -->
+ ![github-logo](https://user-images.githubusercontent.com/34964652/232322026-8cf00923-0a55-41f9-a89b-fff46b2b2880.png)
+
 <!--   ![github-logo](https://user-images.githubusercontent.com/34964652/232321867-e314eb63-fe4a-48ca-a93c-edb17525b697.png) -->
   </div>
 
