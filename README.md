@@ -21,7 +21,7 @@
       alt="GitHub Badge" />
     </a>
   </div>
-  <div id="header" align="center" class="round-border">
+  <div id="header" align="center" class="round-border" width="200px" height="200px">
  
 ![github-logo-readme](https://user-images.githubusercontent.com/34964652/232328075-16e20822-917a-4ffa-af8f-0a46169b9ca0.png)
 
