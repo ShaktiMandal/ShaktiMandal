@@ -1,5 +1,5 @@
 
- <h1 align="center">Hello, This is shakti</h1>
+ <h1 align="center" style="font-family:'Chivo Mono', monospace; font-weight: bold; font-size: 36px;">Hello, This is shakti</h1>
   <div id="badges">
     <a
       href="https://www.linkedin.com/in/shakti-shankar-mandal-425978124/"
