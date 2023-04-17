@@ -1,5 +1,5 @@
 
- <h1>Hi, This is shakti 👨‍💻</h1>
+ <h1 align="center">Hello, This is shakti</h1>
   <div id="badges">
     <a
       href="https://www.linkedin.com/in/shakti-shankar-mandal-425978124/"
