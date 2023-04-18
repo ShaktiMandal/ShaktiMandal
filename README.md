@@ -1,5 +1,4 @@
 
- <h1 align="center" style="font-family:'Chivo Mono', monospace; font-weight: bold; font-size: 36px;">Hello, This is shakti</h1>
   <div id="badges">
     <a
       href="https://www.linkedin.com/in/shakti-shankar-mandal-425978124/"
@@ -21,14 +20,18 @@
       alt="GitHub Badge" />
     </a>
   </div>
+  
   <div id="header" align="center" class="round-border" width="200px" height="200px">
  
 <!-- ![github-logo-readme](https://user-images.githubusercontent.com/34964652/232328075-16e20822-917a-4ffa-af8f-0a46169b9ca0.png) -->
- 
-![ui-github-logo](https://user-images.githubusercontent.com/34964652/232479140-2c55b92f-f281-4768-93b1-c69507425959.png)
+ ![github-bg-cover](https://user-images.githubusercontent.com/34964652/232860226-293f2d9e-9a12-49f0-bb94-9698df84e30f.png)
+
 
   </div>
-
+<section>
+    Hello, I'm a senior frontend software engineer. Over the years, I have worked on a wide range of projects, including desktop applications, web applications.
+    
+  </section>
   <div align="center" id="badges">
 
   </div>
