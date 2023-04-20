@@ -57,31 +57,39 @@
   Not Mine, Machine's Mother Tounge
     
   </h2>
-
-     
-  <a href="https://github.com/ShaktiMandal/ShaktiMandal/issues/" target="_blank">
-    <img width="55px"
-      src="https://img.shields.io/static/v1?label=&message=HERE&color=blue"
+  <img width="55px"
+      src="https://img.shields.io/badge/Vue-gray?style=for-the-badge&logo=vue.js&logoColor=blue"
       alt="GitHub Issues"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/shakti-shankar-mandal-425978124/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-  <a href="https://twitter.com/san_sontu" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="Twitter Badge"
-    />
-  </a>
-  <a href="https://github.com/ShaktiMandal" target="_blank">
-    <img src="https://img.shields.io/badge/gitHub-blue?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub Badge" />
-  </a>
-    
+  />
+  <img width="45px"
+      src="https://img.shields.io/badge/JS-blue?style=for-the-badge&logo=javascript&logoColor=yellow"
+      alt="GitHub Issues"
+  />
+  <img width="60px"
+      src="https://img.shields.io/badge/react-white?style=for-the-badge&logo=react&logoColor=blue"
+      alt="GitHub Issues"
+  />
+  <img width="85px"
+      src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=blue"
+      alt="GitHub Issues"
+  />
+  <img width="70px"
+      src="https://img.shields.io/badge/cshrap-lavender?style=for-the-badge&logo=csharp&logoColor=blue"
+      alt="GitHub Issues"
+  />
+  <img width="70px"
+      src="https://img.shields.io/badge/dotnet-Purple?style=for-the-badge&logo=dotnet&logoColor=blue"
+      alt="GitHub Issues"
+  />
+  <img width="55px"
+      src="https://img.shields.io/badge/vite-lightsalmon?style=for-the-badge&logo=vite&logoColor=blue"
+      alt="GitHub Issues"
+  />
+  <img width="70px"
+      src="https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=blue"
+      alt="GitHub Issues"
+  />
+
   </section>  
   </div>
     
