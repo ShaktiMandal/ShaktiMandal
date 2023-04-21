@@ -1,4 +1,9 @@
-
+ <div align="right">
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{ShaktiMandal}/count.svg)
+ 
+ </div>
+ 
  ![github-bg-cover](https://user-images.githubusercontent.com/34964652/232860226-293f2d9e-9a12-49f0-bb94-9698df84e30f.png)
   <section style="margin-top: -160px; padding-top: 0;"> 
   
@@ -14,7 +19,7 @@
   
   <div>
   
-  <section  align='center'>
+  <section  align='left'>
   <h2>
     
   💬 Ask me anyhting 👇
@@ -51,10 +56,10 @@
   
   <div>
   
-  <section  align='center'>
+  <section  align='left'>
   <h2>
     
-  Not Mine, Machine's Mother Tounge
+  💻 Tech, I use 👇
     
   </h2>
   <img width="55px"
